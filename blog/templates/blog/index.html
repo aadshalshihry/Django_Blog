@@ -1,0 +1,14 @@
+
+{% extends 'base.html' %}
+
+{% block title %} All post {% endblock %}
+
+
+{% block content %}
+
+  <h2>{{mydata}}</h2>
+
+  <h1>this is index.html page</h1>
+  {% load staticfiles %}
+  <img src="{% static 'img/beach.jpg' %}" alt="">
+{% endblock %}
