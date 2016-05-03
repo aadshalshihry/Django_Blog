@@ -1,4 +1,4 @@
-# Django_Blog
+# Django_Blog( Blog using Django )
 If you want to setup Django 1.9, down you will fine everything that will make your life ease to start.
 
 ## Installation
